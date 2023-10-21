@@ -1,0 +1,6 @@
+name: LobbyManager
+version: '${project.version}'
+main: com.jesper.lobbymanager.LobbyManager
+api-version: '1.19'
+authors: [JesperTX, GewoonDami60]
+description: A minecraft plugin to connect from a lobby to a game.
